@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pesan untuk Cinta Pertama</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            text-align: center;
+            margin-top: 50px;
+            color: #333;
+        }
+        .message-container {
+            background-color: #fff;
+            width: 60%;
+            margin: 0 auto;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #ff6b6b;
+        }
+        .message {
+            font-size: 18px;
+            line-height: 1.6;
+            margin-top: 20px;
+        }
+        .signature {
+            margin-top: 30px;
+            font-weight: bold;
+            color: #ff6b6b;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Pesan untuk Cinta Pertama</h1>
+    <div class="message-container">
+        <p class="message">
+            Makasih untuk semuanya, maaf karna aku nggak pernah ngasih surprise di hari ulang tahunmu yang lalu. Aku sedih karna kamu posting cowok barumu, itu mungkin yang dijodohin oleh mamamu itu kan? 
+            Aku gak tau lagi ini kedepannya gimana, rencana untuk melamarmu nanti hancur karena melihat kamu udah posting cowok lain. Yahh, aku do'ain kamu yang terbaik aja untuk seterusnya, jangan pernah sedih lagi yaa. 
+            <br><br>
+            "Aku selalu menyayangi mu cinta pertama ku."
+        </p>
+        <div class="signature">LOVE YOU</div>
+    </div>
+
+</body>
+</html>
